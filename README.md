@@ -8,3 +8,7 @@ http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-s
 ##Kill a process
 1. get the PID by running `top`
 2. `kill -9 7261` where 7261 is your PID
+
+
+##Installing Jenkins
+https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu
