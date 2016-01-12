@@ -12,3 +12,7 @@ http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-s
 
 ##Installing Jenkins
 https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu
+
+
+##Bitbucket--> Github mirror
+http://www.metallapan.se/bitsynchub/
