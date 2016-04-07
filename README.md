@@ -16,3 +16,22 @@ https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu
 
 ##Bitbucket--> Github mirror
 http://www.metallapan.se/bitsynchub/
+
+## edit multiple files in vim
+give vim a list of files. It'll show you the first one that you open, then when you're done you just press :n, and that takes you to the next one. :p takes you to the previous one.
+
+cntrl f anf ctrl b
+
+line # , then shift g
+
+exit and type . to repeat last command
+
+
+20g to go to line 20
+
+
+indentation.
+<
+>
+
+	shift .. to indent 2 lines
