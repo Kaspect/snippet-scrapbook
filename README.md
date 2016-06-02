@@ -35,3 +35,8 @@ indentation.
 >
 
 	shift .. to indent 2 lines
+
+
+Cool Tools:
+Make a desktop app the way you'd do a webapp
+http://electron.atom.io/blog/2016/05/11/electron-1-0
